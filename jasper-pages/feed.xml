@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My test project - Articles</title>
+    <description>Let&#39;s test some stuff.</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Trying a Markdown page from Jupyter</title>
+        
+          <description>&lt;h2 id=&quot;lesson-1-containers&quot;&gt;Lesson 1: Containers&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Sat, 09 Apr 2016 00:00:00 +0200</pubDate>
+        <link>
+        /my-second-post</link>
+        <guid isPermaLink="true">/my-second-post</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Hello world</title>
+        
+          <description>&lt;h1 id=&quot;hello-beautiful-world&quot;&gt;Hello beautiful world&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Sat, 09 Apr 2016 00:00:00 +0200</pubDate>
+        <link>
+        /my-first-post</link>
+        <guid isPermaLink="true">/my-first-post</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title></title>
+   
+   <link></link>
+   <description>Let's test some stuff.</description>
+   <language>de-de</language>
+   <managingEditor> frankazoid83</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Trying a Markdown page from Jupyter</title>
+	  <link>//my-second-post</link>
+	  <author>frankazoid83</author>
+	  <pubDate>2016-04-09T00:00:00+02:00</pubDate>
+	  <guid>//my-second-post</guid>
+	  <description><![CDATA[
+	     <h2 id="lesson-1-containers">Lesson 1: Containers</h2>
+
+<p>There is a container. Modify it.</p>
+
+<p>Containers are the heart of ATML3. They allow you to get dynamic elements into your text. Your typical container looks like <code class="highlighter-rouge">[object_name;parameter,subparameter;parameter,subparameter;...]</code></p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># load rincewind training</span>
+</code></pre>
+</div>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c">#load data (rincewind or myax)</span>
+</code></pre>
+</div>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c">#render the training, expose only the line required for the sentence or property</span>
+</code></pre>
+</div>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Hello world</title>
+	  <link>//my-first-post</link>
+	  <author>frankazoid83</author>
+	  <pubDate>2016-04-09T00:00:00+02:00</pubDate>
+	  <guid>//my-first-post</guid>
+	  <description><![CDATA[
+	     <h1 id="hello-beautiful-world">Hello beautiful world</h1>
+
+<p>This is my first post and I want to try some <strong>radical</strong> <em>stuff</em> here.
+Let’s get started and get things cracking. How about some markup text? Got it. And how about trying to include a Jupyter notebook?</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
